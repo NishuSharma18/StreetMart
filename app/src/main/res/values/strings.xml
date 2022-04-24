@@ -11,4 +11,9 @@
     <string name="registration">Registration</string>
     <string name="enter_user_name">Enter User Name</string>
     <string name="already_have_an_account">already have an account?</string>
+    <string name="fashion">Fashion</string>
+    <string name="medicines">Medicines</string>
+    <string name="appliance">Appliance</string>
+    <string name="grocery">Grocery</string>
+    <string name="local_for_vocal">Local for Vocal</string>
 </resources>
