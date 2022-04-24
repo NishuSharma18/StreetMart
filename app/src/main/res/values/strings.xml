@@ -16,4 +16,31 @@
     <string name="appliance">Appliance</string>
     <string name="grocery">Grocery</string>
     <string name="local_for_vocal">Local for Vocal</string>
+
+    <string-array name="items">
+        <item>Honey</item>
+        <item>ToothBrush</item>
+        <item>Tomato</item>
+        <item>Oximeter</item>
+        <item>Apple</item>
+        <item>Tshirt</item>
+        <item>Shoes</item>
+        <item>BloodPressure</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item></item>
+        <item>ToothBrush</item>
+        <item>Tomato</item>
+        <item>Oximeter</item>
+        <item>Apple</item>
+        <item>Tshirt</item>
+        <item>Shoes</item>
+        <item>Pendrive</item>
+        <item>BloodPressure</item>
+
+    </string-array>
+
+
 </resources>
